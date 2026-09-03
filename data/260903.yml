@@ -1,11 +1,13 @@
 about:
-  description: ShellCheck, a static analysis tool for shell scripts
+  description:
+  |
+    ShellCheck, a static analysis tool for shell scripts
   license: GPL-3.0
   homepage: https://www.shellcheck.net
   head: 9af7ee2
   archived: false
   latestVersion: v0.11.0
-  collectedAt: 2026-09-03T05:14:43Z
+  collectedAt: 2026-09-03T22:35:57Z
 timeline:
   created: 2012-11-17
   lastCommit: 2026-06-11
@@ -13,7 +15,7 @@ timeline:
 popularity:
   star: 39982
   watcher: 407
-  fork: 1944
+  fork: 1945
   release: 30
   contributor: 167
   pullRequest: 113
@@ -22,7 +24,7 @@ language:
   Haskell: 830348
   Shell: 20694
   Dockerfile: 10598
-totalLine: 861640
+totalBytes: 861640
 recent:
   last30d:
     since: 2026-08-04
