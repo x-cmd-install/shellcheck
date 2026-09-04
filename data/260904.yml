@@ -7,7 +7,7 @@ about:
   head: 9af7ee2
   archived: false
   latestVersion: v0.11.0
-  collectedAt: 2026-09-04T20:13:34Z
+  collectedAt: 2026-09-04T20:32:16Z
 timeline:
   created: 2012-11-17
   lastCommit: 2026-06-11
@@ -19,7 +19,7 @@ popularity:
   release: 30
   contributor: 167
   pullRequest: 459
-  issue: 3015
+  issue: 3016
 language:
   Haskell: 830348
   Shell: 20694
@@ -32,7 +32,7 @@ recent:
     mergedPR: 0
     openPR: 6
     closedIssue: 7
-    openIssue: 5
+    openIssue: 6
     commit: 0
   last60d:
     since: 2026-07-06
@@ -40,7 +40,7 @@ recent:
     mergedPR: 0
     openPR: 10
     closedIssue: 13
-    openIssue: 12
+    openIssue: 13
     commit: 0
   last90d:
     since: 2026-06-06
@@ -48,7 +48,7 @@ recent:
     mergedPR: 1
     openPR: 13
     closedIssue: 14
-    openIssue: 15
+    openIssue: 16
     commit: 2
   last180d:
     since: 2026-03-08
@@ -56,7 +56,7 @@ recent:
     mergedPR: 9
     openPR: 14
     closedIssue: 30
-    openIssue: 46
+    openIssue: 47
     commit: 14
   last360d:
     since: 2025-09-09
@@ -64,7 +64,7 @@ recent:
     mergedPR: 39
     openPR: 15
     closedIssue: 71
-    openIssue: 94
+    openIssue: 95
     commit: 46
   last720d:
     since: 2024-09-14
@@ -72,18 +72,18 @@ recent:
     mergedPR: 60
     openPR: 16
     closedIssue: 149
-    openIssue: 220
+    openIssue: 221
     commit: 191
 total:
   release: 30
   mergedPR: 346
   openPR: 24
   closedIssue: 1901
-  openIssue: 1114
+  openIssue: 1115
   commit: 2234
 ---
 path: /home/runner/.x-repo/github.com/koalaman/shellcheck
-collectedAt: 2026-09-04T20:13:35Z
+collectedAt: 2026-09-04T20:32:17Z
 loc:
   Haskell:
     code: 16068
