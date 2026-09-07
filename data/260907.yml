@@ -5,13 +5,13 @@ about:
   head: 9af7ee2
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-07T05:43:37Z
+  collectedAt: 2026-09-07T18:44:54Z
 timeline:
   created: 2012-11-17
   lastCommit: 2026-06-11
   lastRelease: 2025-08-04
 popularity:
-  star: 40000
+  star: 40005
   watcher: 408
   fork: 1945
   release: 30
@@ -81,7 +81,7 @@ total:
   commit: 2234
 ---
 path: /home/runner/.x-repo/github.com/koalaman/shellcheck
-collectedAt: 2026-09-07T05:43:40Z
+collectedAt: 2026-09-07T18:44:57Z
 loc:
   Haskell:
     code: 16068
@@ -277,7 +277,7 @@ checks:
       - 'Info:   2 out of   8 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:43:40+00:00
+  collectedAt: 2026-09-07T18:44:58+00:00
   platform:
     darwin/arm64:
       name:  shellcheck-v0.11.0.darwin.aarch64.tar.gz
