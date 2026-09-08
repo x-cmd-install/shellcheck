@@ -5,13 +5,13 @@ about:
   head: 9af7ee2
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-08T02:53:20Z
+  collectedAt: 2026-09-08T05:36:10Z
 timeline:
   created: 2012-11-17
   lastCommit: 2026-06-11
   lastRelease: 2025-08-04
 popularity:
-  star: 40007
+  star: 40006
   watcher: 408
   fork: 1945
   release: 30
@@ -81,7 +81,7 @@ total:
   commit: 2234
 ---
 path: /home/runner/.x-repo/github.com/koalaman/shellcheck
-collectedAt: 2026-09-08T02:53:22Z
+collectedAt: 2026-09-08T05:36:12Z
 loc:
   Haskell:
     code: 16068
