@@ -26,13 +26,13 @@ x install shellcheck
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **4.1 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (3/10) — 0 commit(s) and 4 issue activity found in the last 90 days -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install shellcheck
 
 ## 流行度
 
-- **Star**: 40,037 · **Fork**: 1,946 · **开放 issue**: 3,017 · **贡献者**: 167
+- **Star**: 40,041 · **Fork**: 1,944 · **开放 issue**: 3,017 · **贡献者**: 167
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install shellcheck
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 2 | 7 | 4 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 11 | 13 | 13 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 12 | 15 | 14 | 0 |
-| last180d | 2026-03-19 | 0 | 9 | 15 | 31 | 44 | 12 |
-| 360d | 2025-09-20 | 0 | 31 | 16 | 68 | 87 | 41 |
-| last720d | 2024-09-25 | 1 | 60 | 17 | 150 | 214 | 191 |
+| 30d | 2026-08-17 | 0 | 0 | 2 | 7 | 4 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 11 | 13 | 13 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 12 | 15 | 14 | 0 |
+| last180d | 2026-03-20 | 0 | 9 | 15 | 31 | 43 | 12 |
+| 360d | 2025-09-21 | 0 | 31 | 16 | 68 | 87 | 41 |
+| last720d | 2024-09-26 | 1 | 60 | 17 | 150 | 213 | 191 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ shellcheck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:06:32Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:00:29Z._
