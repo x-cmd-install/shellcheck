@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11370575,
       "digest": "sha256:339b930feb1ea764467013cc1f72d09cd6b869ebf1013296ba9055ab2ffbd26f",
-      "download_count": 123738,
+      "download_count": 125040,
       "created_at": "2026-01-05T03:12:03Z",
       "updated_at": "2026-01-05T03:12:07Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.darwin.aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7245972,
       "digest": "sha256:56affdd8de5527894dca6dc3d7e0a99a873b0f004d7aabc30ae407d3f48b0a79",
-      "download_count": 493539,
+      "download_count": 496183,
       "created_at": "2025-08-04T00:40:26Z",
       "updated_at": "2025-08-04T00:40:27Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.darwin.aarch64.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6700263,
       "digest": "sha256:c2c15e08df0e8fbc374c335b230a7ee958c313fa5714817a59aa59f1aa594f51",
-      "download_count": 4891,
+      "download_count": 4937,
       "created_at": "2026-01-05T03:12:07Z",
       "updated_at": "2026-01-05T03:12:11Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.darwin.x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4393952,
       "digest": "sha256:3c89db4edcab7cf1c27bff178882e0f6f27f7afdf54e859fa041fca10febe4c6",
-      "download_count": 80563,
+      "download_count": 80764,
       "created_at": "2025-08-04T00:40:26Z",
       "updated_at": "2025-08-04T00:40:27Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.darwin.x86_64.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11668131,
       "digest": "sha256:68a8133197a50beb8803f8d42f9908d1af1c5540d4bb05fdfca8c1fa47decefc",
-      "download_count": 52430,
+      "download_count": 53020,
       "created_at": "2026-01-05T03:12:11Z",
       "updated_at": "2026-01-05T03:12:16Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6811484,
       "digest": "sha256:12b331c1d2db6b9eb13cfca64306b1b157a86eb69db83023e261eaa7e7c14588",
-      "download_count": 1764924,
+      "download_count": 1771813,
       "created_at": "2025-08-04T00:40:26Z",
       "updated_at": "2025-08-04T00:40:27Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.aarch64.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10099935,
       "digest": "sha256:89f29e76e881122416eb95947f812b1496ff9a46d1e1676abe1e3f3f903b0f46",
-      "download_count": 502,
+      "download_count": 505,
       "created_at": "2026-01-05T03:12:16Z",
       "updated_at": "2026-01-05T03:12:19Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.armv6hf.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5921316,
       "digest": "sha256:8afc50b302d5feeac9381ea114d563f0150d061520042b254d6eb715797c8223",
-      "download_count": 11579,
+      "download_count": 11601,
       "created_at": "2025-08-04T00:40:26Z",
       "updated_at": "2025-08-04T00:40:27Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.armv6hf.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 15094848,
       "digest": "sha256:a70e86454e9ae1a328aeafe62629d04ffea93b99138bfe1203083e2621b5ca4f",
-      "download_count": 417,
+      "download_count": 418,
       "created_at": "2026-01-05T03:12:19Z",
       "updated_at": "2026-01-05T03:12:25Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.riscv64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 9297392,
       "digest": "sha256:693c987777e7b524dd311d9b8c704885a39c889c9804bb1ef1fd29b48567b0b3",
-      "download_count": 7842,
+      "download_count": 7861,
       "created_at": "2025-08-04T00:40:26Z",
       "updated_at": "2025-08-04T00:40:27Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.riscv64.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3773312,
       "digest": "sha256:b7af85e41cc99489dcc21d66c6d5f3685138f06d34651e6d34b42ec6d54fe6f6",
-      "download_count": 855163,
+      "download_count": 863494,
       "created_at": "2026-01-05T03:12:25Z",
       "updated_at": "2026-01-05T03:12:27Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2559196,
       "digest": "sha256:8c3be12b05d5c177a04c29e3c78ce89ac86f1595681cab149b65b97c4e227198",
-      "download_count": 8741279,
+      "download_count": 8781994,
       "created_at": "2025-08-04T00:40:27Z",
       "updated_at": "2025-08-04T00:40:27Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8068167,
       "digest": "sha256:8a4e35ab0b331c85d73567b12f2a444df187f483e5079ceffa6bda1faa2e740e",
-      "download_count": 215537,
+      "download_count": 216910,
       "created_at": "2025-08-04T00:40:27Z",
       "updated_at": "2025-08-04T00:40:28Z",
       "browser_download_url": "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.zip"
