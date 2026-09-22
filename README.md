@@ -14,14 +14,14 @@ x install shellcheck
 
 ## Code insight
 
-Total: **17,162** lines of code across **48** files in the top 5 languages.
+Total: **17,469** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 16,119 | 1,554 | 2,344 | 30 |
+| Haskell | 16,425 | 1,795 | 2,397 | 31 |
 | Bash | 337 | 31 | 59 | 9 |
 | Svg | 262 | 0 | 32 | 1 |
-| Cabal | 147 | 7 | 11 | 1 |
+| Cabal | 148 | 7 | 11 | 1 |
 | Dockerfile | 131 | 66 | 52 | 7 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.0` (2025-08-04)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-21
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 40,060 · **Forks**: 1,946 · **Open issues**: 3,018 · **Contributors**: 169
+- **Stars**: 40,063 · **Forks**: 1,946 · **Open issues**: 3,019 · **Contributors**: 169
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 349 · **Open PRs**: 23 · **Closed issues**: 1904 · **Open issues**: 1114 · **Commits**: 2242
+- **Releases**: 30 · **Merged PRs**: 350 · **Open PRs**: 22 · **Closed issues**: 1907 · **Open issues**: 1112 · **Commits**: 2243
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 4 | 4 | 3 | 0 |
-| last60d | 2026-07-23 | 0 | 1 | 10 | 11 | 13 | 1 |
-| 90d | 2026-06-23 | 0 | 2 | 10 | 15 | 15 | 7 |
-| last180d | 2026-03-25 | 0 | 11 | 13 | 27 | 41 | 19 |
-| 360d | 2025-09-26 | 0 | 34 | 14 | 68 | 88 | 48 |
-| last720d | 2024-10-01 | 1 | 63 | 15 | 151 | 212 | 199 |
+| 30d | 2026-08-23 | 0 | 0 | 3 | 4 | 3 | 0 |
+| last60d | 2026-07-24 | 0 | 2 | 9 | 11 | 13 | 2 |
+| 90d | 2026-06-24 | 0 | 3 | 9 | 15 | 15 | 8 |
+| last180d | 2026-03-26 | 0 | 12 | 12 | 27 | 42 | 20 |
+| 360d | 2025-09-27 | 0 | 35 | 13 | 68 | 89 | 49 |
+| last720d | 2024-10-02 | 1 | 64 | 14 | 151 | 213 | 200 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:57:11Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:05:56Z._
