@@ -4,7 +4,7 @@
 
 ShellCheck, a static analysis tool for shell scripts
 
-[![x-cmd/install — shellcheck Code Quality Monitoring Repo Card](https://repo.x-cmd.io/shellcheck.svg)](https://x-cmd.com/install/shellcheck)
+[![x-cmd/install — shellcheck Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/shellcheck.svg)](https://x-cmd.com/install/shellcheck)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **17,469** lines of code across **49** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (3/10) — 0 commit(s) and 4 issue activity found in the last 90 days -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,063 · **Forks**: 1,946 · **Open issues**: 3,019 · **Contributors**: 169
+- **Stars**: 40,072 · **Forks**: 1,947 · **Open issues**: 3,019 · **Contributors**: 169
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 3 | 4 | 3 | 0 |
-| last60d | 2026-07-24 | 0 | 2 | 9 | 11 | 13 | 2 |
-| 90d | 2026-06-24 | 0 | 3 | 9 | 15 | 15 | 8 |
-| last180d | 2026-03-26 | 0 | 12 | 12 | 27 | 42 | 20 |
-| 360d | 2025-09-27 | 0 | 35 | 13 | 68 | 89 | 49 |
-| last720d | 2024-10-02 | 1 | 64 | 14 | 151 | 213 | 200 |
+| 30d | 2026-08-24 | 0 | 0 | 3 | 4 | 3 | 0 |
+| last60d | 2026-07-25 | 0 | 2 | 9 | 11 | 13 | 2 |
+| 90d | 2026-06-25 | 0 | 3 | 9 | 15 | 15 | 8 |
+| last180d | 2026-03-27 | 0 | 12 | 12 | 27 | 42 | 20 |
+| 360d | 2025-09-28 | 0 | 35 | 13 | 68 | 89 | 49 |
+| last720d | 2024-10-03 | 1 | 64 | 14 | 151 | 213 | 200 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:05:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:20:57Z._
