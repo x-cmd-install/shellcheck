@@ -26,7 +26,7 @@ Total: **17,490** lines of code across **49** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,132 · **Forks**: 1,955 · **Open issues**: 3,022 · **Contributors**: 170
+- **Stars**: 40,139 · **Forks**: 1,955 · **Open issues**: 3,022 · **Contributors**: 170
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 354 · **Open PRs**: 25 · **Closed issues**: 1939 · **Open issues**: 1083 · **Commits**: 2249
+- **Releases**: 30 · **Merged PRs**: 354 · **Open PRs**: 26 · **Closed issues**: 1940 · **Open issues**: 1082 · **Commits**: 2249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 3 | 6 | 1 | 5 | 5 |
-| last60d | 2026-08-06 | 0 | 3 | 12 | 9 | 10 | 5 |
-| 90d | 2026-07-07 | 0 | 6 | 12 | 16 | 16 | 13 |
-| last180d | 2026-04-08 | 0 | 13 | 15 | 27 | 37 | 22 |
-| 360d | 2025-10-10 | 0 | 35 | 16 | 68 | 88 | 52 |
-| last720d | 2024-10-15 | 1 | 68 | 17 | 156 | 207 | 206 |
+| 30d | 2026-09-06 | 0 | 3 | 7 | 1 | 4 | 5 |
+| last60d | 2026-08-07 | 0 | 3 | 13 | 9 | 10 | 5 |
+| 90d | 2026-07-08 | 0 | 6 | 13 | 16 | 16 | 13 |
+| last180d | 2026-04-09 | 0 | 13 | 16 | 27 | 37 | 22 |
+| 360d | 2025-10-11 | 0 | 35 | 17 | 68 | 88 | 52 |
+| last720d | 2024-10-16 | 1 | 68 | 18 | 156 | 207 | 206 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:28:35Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:13:30Z._
