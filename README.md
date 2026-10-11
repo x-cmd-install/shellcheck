@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,153 · **Forks**: 1,957 · **Open issues**: 3,025 · **Contributors**: 170
+- **Stars**: 40,158 · **Forks**: 1,958 · **Open issues**: 3,025 · **Contributors**: 170
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 6 | 9 | 3 | 5 | 10 |
-| last60d | 2026-08-11 | 0 | 6 | 11 | 11 | 10 | 10 |
-| 90d | 2026-07-12 | 0 | 9 | 15 | 18 | 17 | 18 |
-| last180d | 2026-04-13 | 0 | 15 | 18 | 29 | 36 | 29 |
-| 360d | 2025-10-15 | 0 | 38 | 19 | 71 | 85 | 60 |
-| last720d | 2024-10-20 | 1 | 71 | 20 | 160 | 206 | 217 |
+| 30d | 2026-09-11 | 0 | 6 | 9 | 3 | 5 | 10 |
+| last60d | 2026-08-12 | 0 | 6 | 11 | 11 | 10 | 10 |
+| 90d | 2026-07-13 | 0 | 9 | 15 | 17 | 17 | 18 |
+| last180d | 2026-04-14 | 0 | 15 | 18 | 29 | 34 | 29 |
+| 360d | 2025-10-16 | 0 | 38 | 19 | 68 | 85 | 60 |
+| last720d | 2024-10-21 | 1 | 71 | 20 | 159 | 206 | 217 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:32:34Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:31:42Z._
