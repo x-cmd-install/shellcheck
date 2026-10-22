@@ -26,7 +26,7 @@ Total: **17,632** lines of code across **49** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,206 · **Forks**: 1,961 · **Open issues**: 3,032 · **Contributors**: 174
+- **Stars**: 40,215 · **Forks**: 1,963 · **Open issues**: 3,032 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 372 · **Open PRs**: 33 · **Closed issues**: 1990 · **Open issues**: 1042 · **Commits**: 2297
+- **Releases**: 30 · **Merged PRs**: 372 · **Open PRs**: 35 · **Closed issues**: 1990 · **Open issues**: 1042 · **Commits**: 2297
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 20 | 12 | 5 | 7 | 24 |
-| last60d | 2026-08-22 | 0 | 21 | 15 | 11 | 9 | 30 |
-| 90d | 2026-07-23 | 0 | 23 | 20 | 21 | 16 | 35 |
-| last180d | 2026-04-24 | 0 | 28 | 23 | 34 | 28 | 44 |
-| 360d | 2025-10-26 | 0 | 52 | 24 | 67 | 83 | 73 |
-| last720d | 2024-10-31 | 1 | 86 | 25 | 168 | 201 | 250 |
+| 30d | 2026-09-22 | 0 | 20 | 14 | 5 | 7 | 24 |
+| last60d | 2026-08-23 | 0 | 21 | 16 | 11 | 8 | 30 |
+| 90d | 2026-07-24 | 0 | 23 | 22 | 21 | 15 | 35 |
+| last180d | 2026-04-25 | 0 | 28 | 25 | 32 | 28 | 44 |
+| 360d | 2025-10-27 | 0 | 49 | 26 | 67 | 83 | 73 |
+| last720d | 2024-11-01 | 1 | 86 | 27 | 168 | 201 | 250 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:29:46Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:33:31Z._
