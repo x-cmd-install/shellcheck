@@ -48,22 +48,22 @@ x install shellcheck
 
 ## 流行度
 
-- **Star**: 40,215 · **Fork**: 1,963 · **开放 issue**: 3,032 · **贡献者**: 174
+- **Star**: 40,218 · **Fork**: 1,963 · **开放 issue**: 3,036 · **贡献者**: 174
 
 ## 累计统计
 
-- **发布数**: 30 · **已合并 PR**: 372 · **开放 PR**: 35 · **已关闭 issue**: 1990 · **开放 issue**: 1042 · **提交数**: 2297
+- **发布数**: 30 · **已合并 PR**: 372 · **开放 PR**: 38 · **已关闭 issue**: 1990 · **开放 issue**: 1046 · **提交数**: 2297
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 20 | 14 | 5 | 7 | 24 |
-| last60d | 2026-08-23 | 0 | 21 | 16 | 11 | 8 | 30 |
-| 90d | 2026-07-24 | 0 | 23 | 22 | 21 | 15 | 35 |
-| last180d | 2026-04-25 | 0 | 28 | 25 | 32 | 28 | 44 |
-| 360d | 2025-10-27 | 0 | 49 | 26 | 67 | 83 | 73 |
-| last720d | 2024-11-01 | 1 | 86 | 27 | 168 | 201 | 250 |
+| 30d | 2026-09-23 | 0 | 19 | 17 | 5 | 11 | 24 |
+| last60d | 2026-08-24 | 0 | 21 | 19 | 11 | 12 | 30 |
+| 90d | 2026-07-25 | 0 | 23 | 25 | 21 | 19 | 35 |
+| last180d | 2026-04-26 | 0 | 27 | 28 | 32 | 31 | 44 |
+| 360d | 2025-10-28 | 0 | 49 | 29 | 67 | 86 | 73 |
+| last720d | 2024-11-02 | 1 | 86 | 30 | 168 | 205 | 250 |
 
 ## Release 资产
 
@@ -83,6 +83,25 @@ x install shellcheck
 | [shellcheck-v0.11.0.linux.x86_64.tar.xz](https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.xz) | 2.4 MiB | `native/linux/x64` |
 | [shellcheck-v0.11.0.zip](https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.zip) | 7.7 MiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/shellcheck) 上共有 **143** 个发行版报告此项目。**62** 个 ✅ 已是最新上游版本，**71** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.11.0` | ✅ latest |
+| Debian 14 | `0.11.0` | ✅ latest |
+| Debian 13 | `0.10.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.11.0` | ✅ latest |
+| Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
+| Arch | `0.11.0` | ✅ latest |
+| Homebrew | `0.11.0` | ✅ latest |
+| Fedora rawhide | `0.11.0` | ✅ latest |
+| Nix unstable | `0.11.0` | ✅ latest |
+| Void | `0.11.0` | ✅ latest |
+| Alpine edge | `0.11.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.11.0` | ✅ latest |
+
 ## 改进这些数据
 
 shellcheck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `shellcheck` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +111,4 @@ shellcheck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:33:31Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:34:04Z._
