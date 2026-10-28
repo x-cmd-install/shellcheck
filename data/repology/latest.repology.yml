@@ -1,16 +1,3 @@
-- repo: alpine_3_17
-  subrepo: community
-  srcname: shellcheck
-  binname: shellcheck
-  visiblename: shellcheck
-  version: 0.8.0
-  origversion: 0.8.0-r1
-  status: outdated
-  summary: a static analysis tool for shell scripts
-  maintainers:
-    - oliver@schinagl.nl
-  licenses:
-    - GPL-3.0
 - repo: gnuguix
   srcname: shellcheck
   binname: shellcheck
@@ -19,6 +6,41 @@
   origversion: null
   status: outdated
   summary: Static analysis for shell scripts
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: shellcheck
+  binnames:
+    - shellcheck
+  visiblename: shellcheck
+  version: 0.11.0
+  origversion: 0.11.0-2
+  status: newest
+  maintainers:
+    - pkg-haskell-maintainers@lists.alioth.debian.org
+    - helmut@subdivi.de
+    - samueloph@debian.org
+  categories:
+    - misc
+- repo: kiss_community
+  subrepo: community
+  srcname: shellcheck-bin
+  visiblename: shellcheck-bin
+  version: 0.11.0
+  origversion: null
+  status: newest
+  maintainers:
+    - prathamin@proton.me
+- repo: nix_stable_24_11
+  srcname: shellcheck
+  visiblename: shellcheck
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_17
   subrepo: community
   srcname: shellcheck
@@ -32,6 +54,19 @@
     - oliver@schinagl.nl
   licenses:
     - GPL-3.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: shellcheck
+  binname: shellcheck
+  visiblename: shellcheck
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: a static analysis tool for shell scripts
+  maintainers:
+    - oliver@schinagl.nl
+  licenses:
+    - GPL-3.0
 - repo: alpine_3_18
   subrepo: community
   srcname: shellcheck
@@ -84,6 +119,17 @@
     - oliver@schinagl.nl
   licenses:
     - GPL-3.0
+- repo: artix
+  subrepo: world
+  srcname: shellcheck-bin
+  binname: shellcheck-bin
+  visiblename: shellcheck-bin
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  summary: Shell script analysis tool (binary release)
+  licenses:
+    - AGPL3
 - repo: alpine_3_20
   subrepo: community
   srcname: shellcheck
@@ -201,6 +247,18 @@
     - oliver@schinagl.nl
   licenses:
     - GPL-3.0-or-later
+- repo: carbs
+  subrepo: extra
+  srcname: shellcheck-bin
+  visiblename: shellcheck-bin
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: Static analysis tool for shell scripts
+  maintainers:
+    - cem@carbslinux.org
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_24
   subrepo: community
   srcname: shellcheck
@@ -240,6 +298,21 @@
     - oliver@schinagl.nl
   licenses:
     - GPL-3.0-or-later
+- repo: deepin_25
+  subrepo: main
+  srcname: shellcheck
+  binnames:
+    - shellcheck
+  visiblename: shellcheck
+  version: 0.8.0
+  origversion: 0.8.0-2
+  status: outdated
+  maintainers:
+    - pkg-haskell-maintainers@lists.alioth.debian.org
+    - helmut@subdivi.de
+    - samueloph@debian.org
+  categories:
+    - devel
 - repo: alt_p11
   srcname: shellcheck
   binnames:
@@ -372,29 +445,6 @@
     - mariakarlsson@aur
   licenses:
     - GPL
-- repo: artix
-  subrepo: world
-  srcname: shellcheck-bin
-  binname: shellcheck-bin
-  visiblename: shellcheck-bin
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  summary: Shell script analysis tool (binary release)
-  licenses:
-    - AGPL3
-- repo: carbs
-  subrepo: extra
-  srcname: shellcheck-bin
-  visiblename: shellcheck-bin
-  version: 0.9.0
-  origversion: null
-  status: outdated
-  summary: Static analysis tool for shell scripts
-  maintainers:
-    - cem@carbslinux.org
-  licenses:
-    - GPL-3.0-or-later
 - repo: chocolatey
   binname: shellcheck
   visiblename: ShellCheck
@@ -491,19 +541,6 @@
     - samueloph@debian.org
   categories:
     - misc
-- repo: nix_stable_25_11
-  srcname: haskellPackages.ShellCheck
-  visiblename: ShellCheck
-  version: 0.11.0
-  origversion: null
-  status: newest
-  summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - haskellPackages
 - repo: debian_14
   subrepo: forky/main
   srcname: shellcheck
@@ -561,21 +598,6 @@
     - samueloph@debian.org
   categories:
     - misc
-- repo: deepin_25
-  subrepo: main
-  srcname: shellcheck
-  binnames:
-    - shellcheck
-  visiblename: shellcheck
-  version: 0.8.0
-  origversion: 0.8.0-2
-  status: outdated
-  maintainers:
-    - pkg-haskell-maintainers@lists.alioth.debian.org
-    - helmut@subdivi.de
-    - samueloph@debian.org
-  categories:
-    - devel
 - repo: devuan_4_0
   subrepo: chimaera/main
   srcname: shellcheck
@@ -585,21 +607,6 @@
   version: 0.7.1
   origversion: 0.7.1-1+deb11u1
   status: outdated
-  maintainers:
-    - pkg-haskell-maintainers@lists.alioth.debian.org
-    - helmut@subdivi.de
-    - samueloph@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: shellcheck
-  binnames:
-    - shellcheck
-  visiblename: shellcheck
-  version: 0.11.0
-  origversion: 0.11.0-2
-  status: newest
   maintainers:
     - pkg-haskell-maintainers@lists.alioth.debian.org
     - helmut@subdivi.de
@@ -762,6 +769,17 @@
     - GPL-3.0-or-later
   categories:
     - Unspecified
+- repo: nix_stable_24_11
+  srcname: shellcheck-minimal
+  visiblename: ShellCheck
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
 - repo: fedora_42
   subrepo: release
   srcname: ShellCheck
@@ -855,17 +873,6 @@
     - GPL-3
   categories:
     - dev-util
-- repo: nix_stable_25_11
-  srcname: shellcheck
-  visiblename: shellcheck
-  version: 0.11.0
-  origversion: null
-  status: newest
-  summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
 - repo: gentoo
   srcname: dev-util/shellcheck-bin
   visiblename: dev-util/shellcheck-bin
@@ -921,15 +928,6 @@
     - samueloph@debian.org
   categories:
     - misc
-- repo: kiss_community
-  subrepo: community
-  srcname: shellcheck-bin
-  visiblename: shellcheck-bin
-  version: 0.11.0
-  origversion: null
-  status: newest
-  maintainers:
-    - prathamin@proton.me
 - repo: liguros_stable
   srcname: dev-util/shellcheck
   visiblename: dev-util/shellcheck
@@ -982,17 +980,6 @@
     - GPL-3+
   categories:
     - dev-util
-- repo: nix_stable_25_11
-  srcname: shellcheck-minimal
-  visiblename: ShellCheck
-  version: 0.11.0
-  origversion: null
-  status: newest
-  summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
 - repo: liguros_develop
   srcname: dev-util/shellcheck
   visiblename: dev-util/shellcheck
@@ -1115,28 +1102,6 @@
   categories:
     - haskellPackages
 - repo: nix_stable_24_11
-  srcname: shellcheck
-  visiblename: shellcheck
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_11
-  srcname: shellcheck-minimal
-  visiblename: ShellCheck
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_11
   srcname: haskellPackages.ShellCheck_0_9_0
   visiblename: ShellCheck
   version: 0.9.0
@@ -1150,19 +1115,6 @@
   categories:
     - haskellPackages
 - repo: nix_stable_25_05
-  srcname: haskellPackages.ShellCheck
-  visiblename: ShellCheck
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - haskellPackages
-- repo: nix_stable_25_05
   srcname: shellcheck
   visiblename: shellcheck
   version: 0.10.0
@@ -1184,6 +1136,19 @@
     - zowoq@github
   licenses:
     - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: haskellPackages.ShellCheck
+  visiblename: ShellCheck
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - haskellPackages
 - repo: nix_stable_25_05
   srcname: haskellPackages.ShellCheck_0_9_0
   visiblename: ShellCheck
@@ -1198,11 +1163,59 @@
   categories:
     - haskellPackages
 - repo: nix_stable_25_11
+  srcname: haskellPackages.ShellCheck
+  visiblename: ShellCheck
+  version: 0.11.0
+  origversion: null
+  status: newest
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - haskellPackages
+- repo: nix_stable_25_11
+  srcname: shellcheck
+  visiblename: shellcheck
+  version: 0.11.0
+  origversion: null
+  status: newest
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: shellcheck-minimal
+  visiblename: ShellCheck
+  version: 0.11.0
+  origversion: null
+  status: newest
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
   srcname: haskellPackages.ShellCheck_0_9_0
   visiblename: ShellCheck
   version: 0.9.0
   origversion: null
   status: legacy
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - haskellPackages
+- repo: nix_stable_26_05
+  srcname: haskellPackages.ShellCheck
+  visiblename: ShellCheck
+  version: 0.11.0
+  origversion: null
+  status: newest
   summary: Shell script analysis tool
   maintainers:
     - zowoq@github
@@ -1233,19 +1246,6 @@
   licenses:
     - GPL-3.0-only
 - repo: nix_stable_26_05
-  srcname: haskellPackages.ShellCheck
-  visiblename: ShellCheck
-  version: 0.11.0
-  origversion: null
-  status: newest
-  summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - haskellPackages
-- repo: nix_stable_26_05
   srcname: haskellPackages.ShellCheck_0_9_0
   visiblename: ShellCheck
   version: 0.9.0
@@ -1258,19 +1258,15 @@
     - GPL-3.0-only
   categories:
     - haskellPackages
-- repo: nix_unstable
-  srcname: haskellPackages.ShellCheck
-  visiblename: ShellCheck
+- repo: pclinuxos
+  srcname: shellcheck
+  visiblename: shellcheck
   version: 0.11.0
-  origversion: null
+  origversion: 0.11.0-1pclos2026
   status: newest
   summary: Shell script analysis tool
-  maintainers:
-    - zowoq@github
-  licenses:
-    - GPL-3.0-only
   categories:
-    - haskellPackages
+    - Development/Tools
 - repo: nix_unstable
   srcname: shellcheck
   visiblename: ShellCheck
@@ -1293,6 +1289,19 @@
     - zowoq@github
   licenses:
     - GPL-3.0-only
+- repo: nix_unstable
+  srcname: haskellPackages.ShellCheck
+  visiblename: ShellCheck
+  version: 0.11.0
+  origversion: null
+  status: newest
+  summary: Shell script analysis tool
+  maintainers:
+    - zowoq@github
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - haskellPackages
 - repo: nix_unstable
   srcname: haskellPackages.ShellCheck_0_9_0
   visiblename: ShellCheck
@@ -1318,21 +1327,6 @@
     - caspar@schutijser.com
   categories:
     - devel
-- repo: raspbian_testing
-  subrepo: main
-  srcname: shellcheck
-  binnames:
-    - shellcheck
-  visiblename: shellcheck
-  version: 0.11.0
-  origversion: 0.11.0-2
-  status: newest
-  maintainers:
-    - pkg-haskell-maintainers@lists.alioth.debian.org
-    - helmut@subdivi.de
-    - samueloph@debian.org
-  categories:
-    - misc
 - repo: opensuse_leap_15_5
   subrepo: main/oss
   srcname: ShellCheck
@@ -1414,21 +1408,6 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
-  srcname: shellcheck
-  binnames:
-    - shellcheck
-  visiblename: shellcheck
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  maintainers:
-    - pkg-haskell-maintainers@lists.alioth.debian.org
-    - helmut@subdivi.de
-    - samueloph@debian.org
-  categories:
-    - misc
-- repo: parrot
   subrepo: parrot/main
   srcname: shellcheck
   binnames:
@@ -1443,15 +1422,21 @@
     - samueloph@debian.org
   categories:
     - misc
-- repo: pclinuxos
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: shellcheck
+  binnames:
+    - shellcheck
   visiblename: shellcheck
-  version: 0.11.0
-  origversion: 0.11.0-1pclos2026
-  status: newest
-  summary: Shell script analysis tool
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  maintainers:
+    - pkg-haskell-maintainers@lists.alioth.debian.org
+    - helmut@subdivi.de
+    - samueloph@debian.org
   categories:
-    - Development/Tools
+    - misc
 - repo: pkgsrc_2026_2
   srcname: shells/shellcheck
   binname: shellcheck
@@ -1556,6 +1541,21 @@
   version: 0.10.0
   origversion: 0.10.0-1
   status: outdated
+  maintainers:
+    - pkg-haskell-maintainers@lists.alioth.debian.org
+    - helmut@subdivi.de
+    - samueloph@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: shellcheck
+  binnames:
+    - shellcheck
+  visiblename: shellcheck
+  version: 0.11.0
+  origversion: 0.11.0-2
+  status: newest
   maintainers:
     - pkg-haskell-maintainers@lists.alioth.debian.org
     - helmut@subdivi.de
