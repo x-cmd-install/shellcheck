@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,279 · **Forks**: 1,972 · **Open issues**: 3,037 · **Contributors**: 174
+- **Stars**: 40,282 · **Forks**: 1,973 · **Open issues**: 3,037 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 377 · **Open PRs**: 39 · **Closed issues**: 1986 · **Open issues**: 1051 · **Commits**: 2307
+- **Releases**: 30 · **Merged PRs**: 377 · **Open PRs**: 40 · **Closed issues**: 1986 · **Open issues**: 1051 · **Commits**: 2307
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 19 | 17 | 6 | 15 | 18 |
-| last60d | 2026-09-05 | 0 | 26 | 20 | 9 | 18 | 35 |
-| 90d | 2026-08-06 | 0 | 26 | 26 | 18 | 22 | 35 |
-| last180d | 2026-05-08 | 0 | 32 | 29 | 33 | 35 | 49 |
-| 360d | 2025-11-09 | 0 | 53 | 30 | 66 | 85 | 75 |
-| last720d | 2024-11-14 | 1 | 89 | 31 | 161 | 205 | 255 |
+| 30d | 2026-10-06 | 0 | 19 | 18 | 6 | 15 | 18 |
+| last60d | 2026-09-06 | 0 | 26 | 21 | 9 | 17 | 35 |
+| 90d | 2026-08-07 | 0 | 26 | 27 | 18 | 22 | 35 |
+| last180d | 2026-05-09 | 0 | 32 | 30 | 33 | 34 | 49 |
+| 360d | 2025-11-10 | 0 | 53 | 31 | 66 | 85 | 75 |
+| last720d | 2024-11-15 | 1 | 89 | 32 | 160 | 204 | 255 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:19:16Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:33:33Z._
