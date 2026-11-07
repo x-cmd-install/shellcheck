@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,291 · **Forks**: 1,973 · **Open issues**: 3,037 · **Contributors**: 175
+- **Stars**: 40,295 · **Forks**: 1,973 · **Open issues**: 3,038 · **Contributors**: 175
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 378 · **Open PRs**: 40 · **Closed issues**: 1987 · **Open issues**: 1050 · **Commits**: 2311
+- **Releases**: 30 · **Merged PRs**: 378 · **Open PRs**: 40 · **Closed issues**: 1987 · **Open issues**: 1051 · **Commits**: 2311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 17 | 18 | 6 | 15 | 21 |
-| last60d | 2026-09-07 | 0 | 27 | 21 | 9 | 17 | 38 |
-| 90d | 2026-08-08 | 0 | 27 | 27 | 18 | 22 | 38 |
-| last180d | 2026-05-10 | 0 | 33 | 30 | 33 | 34 | 52 |
-| 360d | 2025-11-11 | 0 | 53 | 31 | 66 | 85 | 78 |
-| last720d | 2024-11-16 | 1 | 90 | 32 | 160 | 204 | 259 |
+| 30d | 2026-10-08 | 0 | 17 | 18 | 4 | 16 | 21 |
+| last60d | 2026-09-08 | 0 | 27 | 21 | 9 | 18 | 38 |
+| 90d | 2026-08-09 | 0 | 27 | 24 | 18 | 22 | 38 |
+| last180d | 2026-05-11 | 0 | 33 | 30 | 33 | 35 | 52 |
+| 360d | 2025-11-12 | 0 | 53 | 31 | 64 | 85 | 78 |
+| last720d | 2024-11-17 | 1 | 90 | 32 | 160 | 205 | 259 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **144** distros on [repology.org](https://repology.org/project/shellcheck). **61** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
+Reported by **145** distros on [repology.org](https://repology.org/project/shellcheck). **64** are ✅ on the latest upstream release, **71** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -111,4 +111,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:33:19Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:58:37Z._
