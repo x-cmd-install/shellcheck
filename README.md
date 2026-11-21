@@ -14,14 +14,14 @@ x install shellcheck
 
 ## Code insight
 
-Total: **17,795** lines of code across **49** files in the top 5 languages.
+Total: **17,822** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Haskell | 16,703 | 1,824 | 2,415 | 31 |
 | Bash | 349 | 34 | 61 | 9 |
 | Svg | 262 | 0 | 32 | 1 |
-| Dockerfile | 155 | 63 | 52 | 7 |
+| Dockerfile | 178 | 82 | 56 | 7 |
 | Cabal | 148 | 7 | 11 | 1 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.0` (2025-08-04)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 40,360 · **Forks**: 1,979 · **Open issues**: 3,042 · **Contributors**: 181
+- **Stars**: 40,362 · **Forks**: 1,979 · **Open issues**: 3,042 · **Contributors**: 181
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 390 · **Open PRs**: 36 · **Closed issues**: 2000 · **Open issues**: 1042 · **Commits**: 2356
+- **Releases**: 30 · **Merged PRs**: 390 · **Open PRs**: 37 · **Closed issues**: 2000 · **Open issues**: 1042 · **Commits**: 2358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 7 | 13 | 7 | 12 | 25 |
-| last60d | 2026-09-21 | 0 | 34 | 19 | 14 | 17 | 56 |
-| 90d | 2026-08-22 | 0 | 36 | 21 | 19 | 19 | 62 |
-| last180d | 2026-05-24 | 0 | 44 | 26 | 38 | 30 | 78 |
-| 360d | 2025-11-25 | 0 | 64 | 27 | 72 | 77 | 105 |
-| last720d | 2024-11-30 | 1 | 102 | 28 | 167 | 197 | 302 |
+| 30d | 2026-10-22 | 0 | 7 | 11 | 6 | 9 | 0 |
+| last60d | 2026-09-22 | 0 | 34 | 20 | 14 | 17 | 0 |
+| 90d | 2026-08-23 | 0 | 35 | 22 | 19 | 18 | 0 |
+| last180d | 2026-05-25 | 0 | 44 | 27 | 38 | 30 | 0 |
+| 360d | 2025-11-26 | 0 | 64 | 28 | 72 | 76 | 0 |
+| last720d | 2024-12-01 | 1 | 102 | 29 | 167 | 197 | 304 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **147** distros on [repology.org](https://repology.org/project/shellcheck). **66** are ✅ on the latest upstream release, **71** are ⚠️ on an older version.
+Reported by **146** distros on [repology.org](https://repology.org/project/shellcheck). **66** are ✅ on the latest upstream release, **70** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -111,4 +111,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:04:28Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:21:11Z._
