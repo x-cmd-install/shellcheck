@@ -14,11 +14,11 @@ x install shellcheck
 
 ## Code insight
 
-Total: **17,822** lines of code across **49** files in the top 5 languages.
+Total: **17,876** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 16,703 | 1,824 | 2,415 | 31 |
+| Haskell | 16,757 | 1,830 | 2,417 | 31 |
 | Bash | 349 | 34 | 61 | 9 |
 | Svg | 262 | 0 | 32 | 1 |
 | Dockerfile | 178 | 82 | 56 | 7 |
@@ -26,13 +26,13 @@ Total: **17,822** lines of code across **49** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.0` (2025-08-04)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 40,371 · **Forks**: 1,978 · **Open issues**: 3,042 · **Contributors**: 181
+- **Stars**: 40,379 · **Forks**: 1,978 · **Open issues**: 3,042 · **Contributors**: 182
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 390 · **Open PRs**: 37 · **Closed issues**: 2000 · **Open issues**: 1042 · **Commits**: 2358
+- **Releases**: 30 · **Merged PRs**: 394 · **Open PRs**: 34 · **Closed issues**: 2002 · **Open issues**: 1040 · **Commits**: 2369
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 4 | 10 | 6 | 7 | 21 |
-| last60d | 2026-09-24 | 0 | 33 | 20 | 14 | 17 | 55 |
-| 90d | 2026-08-25 | 0 | 35 | 22 | 19 | 18 | 64 |
-| last180d | 2026-05-27 | 0 | 44 | 27 | 38 | 30 | 80 |
-| 360d | 2025-11-28 | 0 | 64 | 28 | 72 | 76 | 107 |
-| last720d | 2024-12-03 | 1 | 102 | 29 | 166 | 195 | 304 |
+| 30d | 2026-10-25 | 0 | 6 | 8 | 6 | 5 | 25 |
+| last60d | 2026-09-25 | 0 | 36 | 17 | 16 | 14 | 60 |
+| 90d | 2026-08-26 | 0 | 39 | 19 | 21 | 16 | 69 |
+| last180d | 2026-05-28 | 0 | 48 | 24 | 39 | 28 | 85 |
+| 360d | 2025-11-29 | 0 | 68 | 25 | 74 | 73 | 114 |
+| last720d | 2024-12-04 | 1 | 106 | 26 | 168 | 193 | 315 |
 
 ## Release assets
 
@@ -95,7 +95,7 @@ Reported by **146** distros on [repology.org](https://repology.org/project/shell
 | Ubuntu 26.04 LTS | `0.11.0` | ✅ latest |
 | Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
 | Arch | `0.11.0` | ✅ latest |
-| Homebrew | `0.11.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.11.0` | ✅ latest |
 | Nix unstable | `0.11.0` | ✅ latest |
 | Void | `0.11.0` | ✅ latest |
@@ -111,4 +111,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:38:10Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:22:47Z._
