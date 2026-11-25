@@ -14,11 +14,11 @@ x install shellcheck
 
 ## 代码洞察
 
-合计: **17,876** 行代码（覆盖前 5 种语言、共 **49** 个文件）。
+合计: **17,949** 行代码（覆盖前 5 种语言、共 **49** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Haskell | 16,757 | 1,830 | 2,417 | 31 |
+| Haskell | 16,830 | 1,827 | 2,437 | 31 |
 | Bash | 349 | 34 | 61 | 9 |
 | Svg | 262 | 0 | 32 | 1 |
 | Dockerfile | 178 | 82 | 56 | 7 |
@@ -43,27 +43,27 @@ x install shellcheck
 ## 发布
 
 - **最新版本**: `v0.11.0` (2025-08-04)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 40,379 · **Fork**: 1,978 · **开放 issue**: 3,042 · **贡献者**: 182
+- **Star**: 40,382 · **Fork**: 1,978 · **开放 issue**: 3,042 · **贡献者**: 182
 
 ## 累计统计
 
-- **发布数**: 30 · **已合并 PR**: 394 · **开放 PR**: 34 · **已关闭 issue**: 2002 · **开放 issue**: 1040 · **提交数**: 2369
+- **发布数**: 30 · **已合并 PR**: 398 · **开放 PR**: 31 · **已关闭 issue**: 2006 · **开放 issue**: 1036 · **提交数**: 2379
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 6 | 8 | 6 | 5 | 25 |
-| last60d | 2026-09-25 | 0 | 36 | 17 | 16 | 14 | 60 |
-| 90d | 2026-08-26 | 0 | 39 | 19 | 21 | 16 | 69 |
-| last180d | 2026-05-28 | 0 | 48 | 24 | 39 | 28 | 85 |
-| 360d | 2025-11-29 | 0 | 68 | 25 | 74 | 73 | 114 |
-| last720d | 2024-12-04 | 1 | 106 | 26 | 168 | 193 | 315 |
+| 30d | 2026-10-26 | 0 | 9 | 6 | 9 | 2 | 30 |
+| last60d | 2026-09-26 | 0 | 40 | 14 | 19 | 10 | 66 |
+| 90d | 2026-08-27 | 0 | 43 | 16 | 24 | 13 | 75 |
+| last180d | 2026-05-29 | 0 | 52 | 21 | 42 | 24 | 91 |
+| 360d | 2025-11-30 | 0 | 72 | 22 | 78 | 69 | 120 |
+| last720d | 2024-12-05 | 1 | 110 | 23 | 172 | 189 | 325 |
 
 ## Release 资产
 
@@ -83,25 +83,6 @@ x install shellcheck
 | [shellcheck-v0.11.0.linux.x86_64.tar.xz](https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.xz) | 2.4 MiB | `native/linux/x64` |
 | [shellcheck-v0.11.0.zip](https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.zip) | 7.7 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/shellcheck) 上共有 **146** 个发行版报告此项目。**66** 个 ✅ 已是最新上游版本，**70** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.11.0` | ✅ latest |
-| Debian 14 | `0.11.0` | ✅ latest |
-| Debian 13 | `0.10.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.11.0` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
-| Arch | `0.11.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `0.11.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ✅ latest |
-| Void | `0.11.0` | ✅ latest |
-| Alpine edge | `0.11.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.11.0` | ✅ latest |
-
 ## 改进这些数据
 
 shellcheck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `shellcheck` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -111,4 +92,4 @@ shellcheck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:22:48Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:09:15Z._
