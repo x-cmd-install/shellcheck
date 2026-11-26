@@ -14,11 +14,11 @@ x install shellcheck
 
 ## Code insight
 
-Total: **17,949** lines of code across **49** files in the top 5 languages.
+Total: **18,003** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 16,830 | 1,827 | 2,437 | 31 |
+| Haskell | 16,884 | 1,831 | 2,445 | 31 |
 | Bash | 349 | 34 | 61 | 9 |
 | Svg | 262 | 0 | 32 | 1 |
 | Dockerfile | 178 | 82 | 56 | 7 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,382 · **Forks**: 1,978 · **Open issues**: 3,042 · **Contributors**: 182
+- **Stars**: 40,386 · **Forks**: 1,980 · **Open issues**: 3,044 · **Contributors**: 183
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 398 · **Open PRs**: 31 · **Closed issues**: 2006 · **Open issues**: 1036 · **Commits**: 2379
+- **Releases**: 30 · **Merged PRs**: 400 · **Open PRs**: 29 · **Closed issues**: 2015 · **Open issues**: 1029 · **Commits**: 2388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 9 | 6 | 9 | 2 | 30 |
-| last60d | 2026-09-26 | 0 | 40 | 14 | 19 | 10 | 66 |
-| 90d | 2026-08-27 | 0 | 43 | 16 | 24 | 13 | 75 |
-| last180d | 2026-05-29 | 0 | 52 | 21 | 42 | 24 | 91 |
-| 360d | 2025-11-30 | 0 | 72 | 22 | 78 | 69 | 120 |
-| last720d | 2024-12-05 | 1 | 110 | 23 | 172 | 189 | 325 |
+| 30d | 2026-10-27 | 0 | 9 | 7 | 9 | 4 | 33 |
+| last60d | 2026-09-27 | 0 | 40 | 14 | 18 | 12 | 69 |
+| 90d | 2026-08-28 | 0 | 43 | 16 | 24 | 15 | 78 |
+| last180d | 2026-05-30 | 0 | 54 | 19 | 43 | 25 | 96 |
+| 360d | 2025-12-01 | 0 | 74 | 20 | 81 | 67 | 125 |
+| last720d | 2024-12-06 | 1 | 112 | 21 | 176 | 187 | 334 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:09:15Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:16:32Z._
