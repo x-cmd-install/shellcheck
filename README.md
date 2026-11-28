@@ -14,11 +14,11 @@ x install shellcheck
 
 ## Code insight
 
-Total: **18,136** lines of code across **49** files in the top 5 languages.
+Total: **18,155** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 17,017 | 1,856 | 2,459 | 31 |
+| Haskell | 17,036 | 1,859 | 2,460 | 31 |
 | Bash | 349 | 34 | 61 | 9 |
 | Svg | 262 | 0 | 32 | 1 |
 | Dockerfile | 178 | 82 | 56 | 7 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 40,392 · **Forks**: 1,982 · **Open issues**: 3,044 · **Contributors**: 185
+- **Stars**: 40,397 · **Forks**: 1,984 · **Open issues**: 3,044 · **Contributors**: 186
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 403 · **Open PRs**: 32 · **Closed issues**: 2017 · **Open issues**: 1027 · **Commits**: 2399
+- **Releases**: 30 · **Merged PRs**: 405 · **Open PRs**: 30 · **Closed issues**: 2018 · **Open issues**: 1026 · **Commits**: 2404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 9 | 11 | 9 | 4 | 37 |
-| last60d | 2026-09-28 | 0 | 39 | 18 | 19 | 11 | 73 |
-| 90d | 2026-08-29 | 0 | 45 | 20 | 25 | 14 | 82 |
-| last180d | 2026-05-31 | 0 | 57 | 22 | 43 | 24 | 102 |
-| 360d | 2025-12-02 | 0 | 77 | 23 | 82 | 66 | 131 |
-| last720d | 2024-12-07 | 1 | 115 | 24 | 177 | 186 | 345 |
+| 30d | 2026-10-29 | 0 | 10 | 11 | 8 | 4 | 39 |
+| last60d | 2026-09-29 | 0 | 41 | 16 | 20 | 10 | 76 |
+| 90d | 2026-08-30 | 0 | 47 | 18 | 26 | 13 | 85 |
+| last180d | 2026-06-01 | 0 | 59 | 20 | 44 | 23 | 105 |
+| 360d | 2025-12-03 | 0 | 79 | 21 | 83 | 65 | 134 |
+| last720d | 2024-12-08 | 1 | 117 | 22 | 178 | 185 | 350 |
 
 ## Release assets
 
@@ -83,25 +83,6 @@ Lowest-scoring checks:
 | [shellcheck-v0.11.0.linux.x86_64.tar.xz](https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.linux.x86_64.tar.xz) | 2.4 MiB | `native/linux/x64` |
 | [shellcheck-v0.11.0.zip](https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellcheck-v0.11.0.zip) | 7.7 MiB | `other` |
 
-## Distribution status
-
-Reported by **145** distros on [repology.org](https://repology.org/project/shellcheck). **66** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.11.0` | ✅ latest |
-| Debian 14 | `0.11.0` | ✅ latest |
-| Debian 13 | `0.10.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.11.0` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.9.0` | ⚠️ outdated |
-| Arch | `0.11.0` | ✅ latest |
-| Homebrew | `0.11.0` | ✅ latest |
-| Fedora rawhide | `0.11.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ✅ latest |
-| Void | `0.11.0` | ✅ latest |
-| Alpine edge | `0.11.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.11.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `shellcheck` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +92,4 @@ Install metadata for shellcheck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:10:23Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:12:16Z._
